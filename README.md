@@ -16,9 +16,14 @@ This repository represents work for two related projects:
         5. Deep Reinforcement Learning Portfolios
 
     - **Tech Stack**: Python, FinRL Library, PyPortfolioOpt, Ta-Lib, Pyfolio
+  
 ![RL.png](https://github.com/neelgandhi108/Financial-Stock-Recommendation-System/raw/main/Assets/RL.png)
 
+
 ![RLPart2.png](https://github.com/neelgandhi108/Financial-Stock-Recommendation-System/raw/main/Assets/RLPart2.png)
+
+
+
 2. **FinanceFormer Transformer-based Model for Investment Portfolio Optimization**
 
     - **Objective**: This project focuses on identifying high-quality stocks with high relative returns in a portfolio of 300 stocks. It constructs leading indicators (features) to predict future price changes and optimize portfolio returns.
@@ -33,9 +38,11 @@ This repository represents work for two related projects:
         - Defining a FinanceFormer model and a training loop
 
     - **Tech Stack**: Python, PyTorch, Pandas, NumPy, Matplotlib, TQDM
+  
 ![Transformer.jpg](https://github.com/neelgandhi108/Financial-Stock-Recommendation-System/raw/main/Assets/Transformer.jpg)
 
 ![Transformer.png](https://github.com/neelgandhi108/Financial-Stock-Recommendation-System/raw/main/Assets/Transformer.png)
+
 
 ## Hybrid Recommendation System 
 ![Stockhybrid.jpg](https://github.com/neelgandhi108/Financial-Stock-Recommendation-System/raw/main/Assets/Stockhybrid.jpg)
