@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Recommendation System</title>
+    <link rel="stylesheet" href="./static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Stock Recommendation System</h1>
+    </header>
+
+    <main>
+        <div class="container">
+            <form id="recommendation-form">
+                <label for="input-date">Select Date:</label>
+                <input type="date" id="input-date" name="date" required>
+                <br>
+
+                <label for="investment-capacity">Investment Capacity:</label>
+                <input type="number" id="investment-capacity" name="investment_capacity" required>
+                <br>
+
+                <button type="submit">Get Recommendations</button>
+            </form>
+
+            <div id="recommendations">
+                <!-- Recommendations will be displayed here -->
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; Created by Neel Gandhi</p>
+    </footer>
+
+    <script src="./static/script.js"></script>
+</body>
+</html>
