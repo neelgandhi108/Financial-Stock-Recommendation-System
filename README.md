@@ -1,7 +1,7 @@
 
-# Asset Portfolio Management and Investment Portfolio Optimization using ML and RL
+# Asset Portfolio Management and Investment Portfolio Optimization using ML,NLP and RL
 
-This repository represents work for two related projects:
+
 
 1. **Asset Portfolio Management using Deep Reinforcement Learning (DRL)**
 
